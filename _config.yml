@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3648633
+  lightness: 0.9272853
+  brandStrength: 1
+  brandColors:
+    - '#ACB278'
+    - '#999341'
+    - '#FFFFFF'
+    - '#F1EBCE'
+    - '#766F02'
+  rhythmicContrast: 1
+typography_spectrum: 0.7317801
+name: Glazed Gourmet
