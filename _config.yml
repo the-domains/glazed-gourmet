@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6541218
 color:
-  saturation: 0.3648633
-  lightness: 0.9272853
-  brandStrength: 1
+  saturation: 0.7102748
+  brandStrength: 0.7258064
+  lightness: 1
   brandColors:
-    - '#ACB278'
-    - '#999341'
     - '#FFFFFF'
-    - '#F1EBCE'
-    - '#766F02'
+    - '#A6AF76'
+    - '#DCDBA5'
+    - '#A98B45'
+    - '#755C1A'
   rhythmicContrast: 1
-typography_spectrum: 0.7317801
+layout_spectrum: 1
 name: Glazed Gourmet
